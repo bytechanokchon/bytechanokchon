@@ -2,7 +2,7 @@
 I'm just a programmer
 
 ### Languages
-<p align="center">
+<p align="start">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=c,cpp,cs" />
   </a>
