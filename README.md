@@ -8,9 +8,27 @@ I'm just a programmer
   </a>
 </p>
 
-### Frameworks
+### Frameworks and Libraries
+<p align="start">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?theme=dark&i=dotnet,react,angular,express,spring" />
+  </a>
+</p>
+
+### Databases
+<p align="start">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?theme=dark&i=mysql" />
+  </a>
+</p>
+
 
 ### Tools
+<p align="start">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?theme=dark&i=git,postman,docker" />
+  </a>
+</p>
 
 <!--
 **bytechanokchon/bytechanokchon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
