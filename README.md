@@ -1,4 +1,16 @@
-## Hi there 👋
+## Yahoo~~
+I'm just a programmer
+
+### Languages
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,cpp,cs" />
+  </a>
+</p>
+
+### Frameworks
+
+### Tools
 
 <!--
 **bytechanokchon/bytechanokchon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
