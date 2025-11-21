@@ -4,7 +4,7 @@ I'm just a programmer
 ### Languages
 <p align="start">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,cs" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,cs,js,ts,java" />
   </a>
 </p>
 
